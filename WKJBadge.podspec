@@ -18,7 +18,7 @@ s.homepage     = "https://github.com/Jerry-Zed/WKJBadge"
 # 仓库地址
 s.source       = { :git => "https://github.com/Jerry-Zed/WKJBadge.git", :tag => "#{s.version}" }
 
-# 你代码的位置 WKJBadge/*.{h,m} 表示 WKJBadge 文件夹下所有的.h和.m文件
+# 项目源的位置 WKJBadge/*.{h,m} 表示 WKJBadge 文件夹下所有的.h和.m文件
 s.source_files = "WKJBadge/*.{h,m}"
 
 # 是否启用ARC
